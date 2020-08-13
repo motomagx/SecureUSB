@@ -5,4 +5,10 @@ SecureUSB é um projeto OpenSource de um simples protertor conta surtos de tens�
 Funcionamento:<br><br>
 
 -A linha de tensão de 5V e os terminais de TX/RX possuem diodos em série e capacitores em paralelo.
--Caso a entrada (à direita) receber uma sobrecarga de 5.5V ou mais (valor delimitado pelos diodos zener), ocorrerá uma sobrecarga de corrente, fazendo o fusível respectivo a se romper, e desabilitando esta linha (VCC ou DATA), protegendo o host de dados elétricos. O memso ocorre caso o host receba a conexão de um dispositivo maliciosos na expectativa de causar uma discrga elétrica no aparelho.
+-Caso a entrada (à direita) receber uma sobrecarga de 5.5V ou mais (valor delimitado pelos diodos zener), ocorrerá uma sobrecarga de corrente, fazendo o fusível respectivo a se romper, e desabilitando esta linha (VCC ou DATA), protegendo o host de dados elétricos.<br><br>
+
+-Um LED na linha de VCC indica tensão operacional.<br><br>
+
+-O mesmo ocorre caso o host receba a conexão de um dispositivo maliciosos na expectativa de causar uma discrga elétrica no aparelho.<br><br>
+
+-O projeto em anexo possui os layouts de PCB em formato Gerber para pronta produção, e o arquivo esquemático em Fritzing estará disponível em breve.
