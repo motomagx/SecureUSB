@@ -1,0 +1,48 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Secure USB
+*Date=23:35:44
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;usb-a-h;20.6564;-7.82949;-180;Bottom;X4
+2;;;12.5487;-6.63997;0;Bottom;Via3
+3;;;17.4752;-11.3858;0;Bottom;Copper Fill6
+4;;;5.8293;-3.4991;0;Bottom;Copper Fill12
+5;;;12.0904;-7.8425;0;Bottom;Copper Fill1
+6;;;18.3261;-12.2367;0;Bottom;Copper Fill14
+7;;;15.7226;-6.763;0;Bottom;Copper Fill11
+8;;;9.77405;-8.72849;0;Bottom;TXT1
+9;;sod-323;14.9586;-8.89641;180;Top;U5
+10;;;6.6548;-4.3246;0;Bottom;Copper Fill4
+11;;ptc-1206;9.73142;-11.2586;0;Top;F3
+12;;;12.0904;-7.8425;0;Bottom;Copper Fill9
+13;;;19.1516;-11.3858;0;Bottom;Copper Fill15
+14;;;8.5598;-4.3754;0;Bottom;Copper Fill17
+15;;;5.8293;-3.4991;0;Bottom;Copper Fill2
+16;;;12.7062;-4.17201;0;Bottom;Via4
+17;;;9.75949;-6.42676;0;Bottom;TXT1
+18;;;12.5487;-11.2586;0;Bottom;Via1
+19;;;8.1153;-3.8801;0;Bottom;Copper Fill16
+20;;usb-a-h;3.58256;-7.76877;0;Bottom;X3
+21;;;19.1516;-11.3858;0;Bottom;Copper Fill7
+22;;;12.9794;-7.7917;0;Bottom;Copper Fill8
+23;;sod-323;14.9586;-6.69169;180;Top;U4
+24;;;4.9784;-4.3246;0;Bottom;Copper Fill3
+25;;;4.9784;-4.3246;0;Bottom;Copper Fill13
+26;;;9.77405;-11.0569;0;Bottom;TXT1
+27;;led-1206;9.6393;-4.32949;-180;Top;LED2
+28;;sod-323;14.9586;-11.2586;180;Top;U6
+29;;;12.5487;-8.89641;0;Bottom;Via2
+30;;ptc-1206;9.73142;-6.6141;0;Top;F5
+31;;;16.0401;-6.3947;0;Bottom;Copper Fill10
+32;;;18.3261;-12.2367;0;Bottom;Copper Fill5
+33;;ptc-1206;9.73142;-8.89641;0;Top;F4
